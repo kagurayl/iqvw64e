@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata minClientVersion="2.5">
+    <id>Musa.Core</id>
+    <version>0.7.0</version>
+    <title>Musa.Core</title>
+    <authors>MeeSong</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>build\native\README.md</readme>
+    <projectUrl>https://github.com/MiroKaku/Musa.Core</projectUrl>
+    <description>Musa.Core - 用 ntoskrnl 实现 Kernel32、Advapi32 等API（内核态）。
+
+Musa.Core - Use ntoskrnl to implement Kernel32, Advapi32 and other APIs (kernel-mode).</description>
+    <releaseNotes>v0.7.0: File APIs, XState, path/time fixes</releaseNotes>
+    <copyright>Copyright© MeeSong</copyright>
+    <tags>Musa.Core Native WDK KMDF Kernel Driver</tags>
+    <repository type="git" url="https://github.com/MiroKaku/Musa.Core.git" branch="main" commit="e118917c57f8808a64e5e50c37ec220b2bbab767" />
+    <dependencies>
+      <dependency id="Musa.CoreLite" version="1.2.2" />
+    </dependencies>
+  </metadata>
+</package>

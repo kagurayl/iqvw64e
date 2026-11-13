@@ -1,0 +1,440 @@
+[
+  {
+    "address": "0x11010",
+    "name": "sub_11010",
+    "size": 113,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11090",
+    "name": "sub_11090",
+    "size": 75,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x110f0",
+    "name": "sub_110F0",
+    "size": 75,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11150",
+    "name": "sub_11150",
+    "size": 179,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11210",
+    "name": "sub_11210",
+    "size": 7,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11220",
+    "name": "sub_11220",
+    "size": 192,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x112f0",
+    "name": "sub_112F0",
+    "size": 55,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11330",
+    "name": "sub_11330",
+    "size": 136,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x113c0",
+    "name": "sub_113C0",
+    "size": 1684,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11a60",
+    "name": "sub_11A60",
+    "size": 432,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11c20",
+    "name": "sub_11C20",
+    "size": 5,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11c30",
+    "name": "sub_11C30",
+    "size": 6,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11c40",
+    "name": "sub_11C40",
+    "size": 5,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11c50",
+    "name": "sub_11C50",
+    "size": 10,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11c60",
+    "name": "sub_11C60",
+    "size": 11,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11c80",
+    "name": "sub_11C80",
+    "size": 9,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11c90",
+    "name": "sub_11C90",
+    "size": 12,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11cb0",
+    "name": "sub_11CB0",
+    "size": 13,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11cd0",
+    "name": "sub_11CD0",
+    "size": 11,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11cf0",
+    "name": "sub_11CF0",
+    "size": 18,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11d10",
+    "name": "sub_11D10",
+    "size": 19,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11d30",
+    "name": "sub_11D30",
+    "size": 18,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11d50",
+    "name": "sub_11D50",
+    "size": 78,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11db0",
+    "name": "sub_11DB0",
+    "size": 9,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11dc0",
+    "name": "sub_11DC0",
+    "size": 22,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11de0",
+    "name": "sub_11DE0",
+    "size": 129,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11e70",
+    "name": "sub_11E70",
+    "size": 34,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11ea0",
+    "name": "sub_11EA0",
+    "size": 31,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11ed0",
+    "name": "sub_11ED0",
+    "size": 20,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11ef0",
+    "name": "sub_11EF0",
+    "size": 20,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11f10",
+    "name": "sub_11F10",
+    "size": 16,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x11f30",
+    "name": "sub_11F30",
+    "size": 191,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x12000",
+    "name": "sub_12000",
+    "size": 7,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x12010",
+    "name": "sub_12010",
+    "size": 15,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x12030",
+    "name": "sub_12030",
+    "size": 391,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x121c0",
+    "name": "sub_121C0",
+    "size": 77,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x12220",
+    "name": "sub_12220",
+    "size": 410,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x123c0",
+    "name": "sub_123C0",
+    "size": 130,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x12450",
+    "name": "sub_12450",
+    "size": 191,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x12520",
+    "name": "sub_12520",
+    "size": 577,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x12770",
+    "name": "sub_12770",
+    "size": 310,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x128b0",
+    "name": "sub_128B0",
+    "size": 33,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x128e0",
+    "name": "sub_128E0",
+    "size": 211,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x129c0",
+    "name": "sub_129C0",
+    "size": 239,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x12ac0",
+    "name": "sub_12AC0",
+    "size": 169,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x12b70",
+    "name": "sub_12B70",
+    "size": 234,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x12c60",
+    "name": "sub_12C60",
+    "size": 252,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x12d70",
+    "name": "sub_12D70",
+    "size": 895,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13100",
+    "name": "sub_13100",
+    "size": 3,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13110",
+    "name": "sub_13110",
+    "size": 407,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x132b0",
+    "name": "sub_132B0",
+    "size": 643,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13540",
+    "name": "sub_13540",
+    "size": 239,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13640",
+    "name": "sub_13640",
+    "size": 250,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13740",
+    "name": "sub_13740",
+    "size": 123,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x137d0",
+    "name": "sub_137D0",
+    "size": 211,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x138b0",
+    "name": "sub_138B0",
+    "size": 191,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13980",
+    "name": "sub_13980",
+    "size": 113,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13a00",
+    "name": "sub_13A00",
+    "size": 282,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13b20",
+    "name": "sub_13B20",
+    "size": 472,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13d00",
+    "name": "sub_13D00",
+    "size": 234,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13df0",
+    "name": "sub_13DF0",
+    "size": 6,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13e00",
+    "name": "sub_13E00",
+    "size": 79,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13e60",
+    "name": "sub_13E60",
+    "size": 58,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13ea0",
+    "name": "sub_13EA0",
+    "size": 70,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13ef0",
+    "name": "sub_13EF0",
+    "size": 158,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x13fa0",
+    "name": "sub_13FA0",
+    "size": 708,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x14270",
+    "name": "sub_14270",
+    "size": 42,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x142b0",
+    "name": "memmove",
+    "size": 820,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x14600",
+    "name": "memset",
+    "size": 234,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x146f0",
+    "name": "DbgPrint",
+    "size": 6,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x14710",
+    "name": "__security_check_cookie",
+    "size": 30,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x5e2010",
+    "name": "sub_5E2010",
+    "size": 489,
+    "status": "decompiled"
+  },
+  {
+    "address": "0x5e2200",
+    "name": "DriverEntry",
+    "size": 89,
+    "status": "decompiled"
+  }
+]

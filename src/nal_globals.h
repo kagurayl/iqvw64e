@@ -1,0 +1,16 @@
+#pragma once
+extern UCHAR nal_data[];
+#define NAL_ADDR(ea) ((ULONG_PTR)(nal_data + ((ea) - 0x17000)))
+#define BugCheckParameter2 (*(ULONG_PTR *)(nal_data + 0x108))
+#define BugCheckParameter3 (*(ULONG_PTR *)(nal_data + 0x100))
+#define dword_17120 (*(LONG *)(nal_data + 0x120))
+#define byte_17128 (*(UCHAR *)(nal_data + 0x128))
+#define qword_17130 (*(ULONGLONG *)(nal_data + 0x130))
+#define qword_17150 (*(LONGLONG *)(nal_data + 0x150))
+#define unk_17140 (*(ULONG *)(nal_data + 0x140))
+#define unk_17148 (*(ULONG *)(nal_data + 0x148))
+#define unk_17180 (*(ULONG *)(nal_data + 0x180))
+#define unk_17188 (*(ULONG *)(nal_data + 0x188))
+#define unk_3E7A40 (*(ULONGLONG *)(nal_data + 0x3D0A40))
+#define unk_3E7A50 (*(ULONGLONG *)(nal_data + 0x3D0A50))
+#define byte_5CFEC0 (*(UCHAR (*)[69952])(nal_data + 0x5B8EC0))
